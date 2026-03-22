@@ -2,18 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Banuja%20Lakmuthu&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Blockchain%20Developer%20%C2%B7%20Smart%20Contract%20Engineer%20%C2%B7%20Web3%20Builder&descAlignY=58&descSize=16&descColor=a78bfa" />
 
-<br/>
+</div>
 
+## 🧑‍💻 About Me
+
+I'm a Blockchain Developer and Smart Contract Engineer based in Sri Lanka, building decentralized applications and full-stack Web3 platforms. I work across the full stack from writing and auditing Solidity contracts to shipping production frontends with React and Next.js. Currently working part-time at **Linked eSIM** as a Full-Stack Developer.
+
+<div align="left">
+  
 [![Portfolio](https://img.shields.io/badge/Portfolio-banuja.com-a78bfa?style=for-the-badge&logoColor=white)](https://banuja.com)
 [![Email](https://img.shields.io/badge/Email-contact@banuja.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@banuja.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/banujalakmuthu)
 
 </div>
-
-
-## 🧑‍💻 About Me
-
-I'm a Blockchain Developer and Smart Contract Engineer based in Sri Lanka, building decentralized applications and full-stack Web3 platforms. I work across the full stack from writing and auditing Solidity contracts to shipping production frontends with React and Next.js. Currently working part-time at **Linked eSIM** as a Full-Stack Developer.
 
 
 ## 🛠️ Tech Stack

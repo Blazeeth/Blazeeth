@@ -1,11 +1,112 @@
-<h1 align="center">Hi 👋, I'm Banuja</h1>
-<h3 align="center">Full-Stack Web3 Developer</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [Linked Esim](https://www.linked.it.com/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Banuja%20Lakmuthu&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Blockchain%20Developer%20%C2%B7%20Smart%20Contract%20Engineer%20%C2%B7%20Web3%20Builder&descAlignY=58&descSize=16&descColor=a78bfa" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Smart+Contract+Developer;Solidity+%7C+Security+%7C+DeFi;Building+Secure+Web3+Applications;Open+to+Remote+Work)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-banuja.com-a78bfa?style=for-the-badge&logoColor=white)](https://banuja.com)
+[![Email](https://img.shields.io/badge/Email-contact@banuja.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@banuja.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/banujalakmuthu)
+
+</div>
+
+
+## 🧑‍💻 About Me
+
+I'm a Blockchain Developer and Smart Contract Engineer based in Sri Lanka, building decentralized applications and full-stack Web3 platforms. I work across the full stack from writing and auditing Solidity contracts to shipping production frontends with React and Next.js.Currently working part-time at **Linked eSIM** as a Full-Stack Developer. 
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 [Linked eSIM](https://linkedesim.com)
+**Full-Stack eSIM Platform** · *Oct 2025 – Present*
+
+Full-stack eSIM management platform with Node.js REST APIs, database integration, and a responsive React.js / Next.js frontend with Tailwind CSS.
+
+`Node.js` `React.js` `Next.js` `Tailwind CSS` `PostgreSQL`
+
+</td>
+<td width="50%">
+
+### 🔒 [SafeStaking](https://safestaking.com)
+**Multi-Chain Staking Protocol**
+
+Non-custodial staking on Ethereum, Avalanche & Solana. Integrates Lido contract functions with on-chain platform fee collection. Deployed on ETH Mainnet.
+
+`Solidity` `Hardhat` `Lido` `Ethereum` `Avalanche` `Solana`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💰 [Tartr](https://tartr.xyz)
+**Decentralized Lending & Borrowing**
+
+DeFi lending platform built on Aave contracts, enabling decentralized borrowing and lending with on-chain collateral management.
+
+`Solidity` `Aave` `Hardhat` `Ethers.js` `React`
+
+</td>
+<td width="50%">
+
+### 🪙 AGC DAPP ⭐ *5-Star Client Review*
+**Multi-Chain Token Management**
+
+Client project on Polygon, Arbitrum & Avalanche. ERC-20 with minting, burning & pausing. ISIN, CUSIP & DTI identifier support. RainbowKit wallet integration.
+
+`Solidity` `Hardhat` `Polygon` `Arbitrum` `RainbowKit`
+</td>
+</tr>
+</table>
+</br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Smart Contracts & Security**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-f7c35a?style=for-the-badge&logo=hardhat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-white?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=black)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+
+**Frontend & Web3**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535a0?style=for-the-badge&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-black?style=for-the-badge&logoColor=white)
+
+**Backend & Infrastructure**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Alchemy](https://img.shields.io/badge/Alchemy-363FF9?style=for-the-badge&logoColor=white)
+![Infura](https://img.shields.io/badge/Infura-ff5b36?style=for-the-badge&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+
+**Chains**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
+![Arbitrum](https://img.shields.io/badge/Arbitrum-2D374B?style=for-the-badge&logo=arbitrum&logoColor=28A0F0)
+![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white)
+![BNB Chain](https://img.shields.io/badge/BNB_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=black)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+
+</div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+</div>

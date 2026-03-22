@@ -62,7 +62,7 @@ I'm a Blockchain Developer and Smart Contract Engineer based in Sri Lanka, build
 <tr>
 <td width="50%">
 
-### [Linked eSIM](https://linkedesim.com)
+### [Linked eSIM](https://linked.international)
 **Full-Stack eSIM Platform** · *Oct 2025 – Present*
 
 Full-stack eSIM management platform with Node.js REST APIs, database integration, and a responsive React.js / Next.js frontend with Tailwind CSS.

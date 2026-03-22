@@ -4,10 +4,6 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Smart+Contract+Developer;Solidity+%7C+Security+%7C+DeFi;Building+Secure+Web3+Applications;Open+to+Remote+Work)](https://git.io/typing-svg)
-
-<br/>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-banuja.com-a78bfa?style=for-the-badge&logoColor=white)](https://banuja.com)
 [![Email](https://img.shields.io/badge/Email-contact@banuja.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@banuja.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/banujalakmuthu)
@@ -17,58 +13,8 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Blockchain Developer and Smart Contract Engineer based in Sri Lanka, building decentralized applications and full-stack Web3 platforms. I work across the full stack from writing and auditing Solidity contracts to shipping production frontends with React and Next.js.Currently working part-time at **Linked eSIM** as a Full-Stack Developer. 
+I'm a Blockchain Developer and Smart Contract Engineer based in Sri Lanka, building decentralized applications and full-stack Web3 platforms. I work across the full stack from writing and auditing Solidity contracts to shipping production frontends with React and Next.js. Currently working part-time at **Linked eSIM** as a Full-Stack Developer.
 
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 [Linked eSIM](https://linkedesim.com)
-**Full-Stack eSIM Platform** · *Oct 2025 – Present*
-
-Full-stack eSIM management platform with Node.js REST APIs, database integration, and a responsive React.js / Next.js frontend with Tailwind CSS.
-
-`Node.js` `React.js` `Next.js` `Tailwind CSS` `PostgreSQL`
-
-</td>
-<td width="50%">
-
-### 🔒 [SafeStaking](https://safestaking.com)
-**Multi-Chain Staking Protocol**
-
-Non-custodial staking on Ethereum, Avalanche & Solana. Integrates Lido contract functions with on-chain platform fee collection. Deployed on ETH Mainnet.
-
-`Solidity` `Hardhat` `Lido` `Ethereum` `Avalanche` `Solana`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💰 [Tartr](https://tartr.xyz)
-**Decentralized Lending & Borrowing**
-
-DeFi lending platform built on Aave contracts, enabling decentralized borrowing and lending with on-chain collateral management.
-
-`Solidity` `Aave` `Hardhat` `Ethers.js` `React`
-
-</td>
-<td width="50%">
-
-### 🪙 AGC DAPP ⭐ *5-Star Client Review*
-**Multi-Chain Token Management**
-
-Client project on Polygon, Arbitrum & Avalanche. ERC-20 with minting, burning & pausing. ISIN, CUSIP & DTI identifier support. RainbowKit wallet integration.
-
-`Solidity` `Hardhat` `Polygon` `Arbitrum` `RainbowKit`
-</td>
-</tr>
-</table>
-</br>
 
 ## 🛠️ Tech Stack
 
@@ -105,8 +51,56 @@ Client project on Polygon, Arbitrum & Avalanche. ERC-20 with minting, burning & 
 ![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white)
 ![BNB Chain](https://img.shields.io/badge/BNB_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=black)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+</div>
 
-</div>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-</div>
+</br>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### [Linked eSIM](https://linkedesim.com)
+**Full-Stack eSIM Platform** · *Oct 2025 – Present*
+
+Full-stack eSIM management platform with Node.js REST APIs, database integration, and a responsive React.js / Next.js frontend with Tailwind CSS.
+
+`Node.js` `React.js` `Next.js` `Tailwind CSS` `PostgreSQL`
+
+</td>
+<td width="50%">
+
+### [SafeStaking](https://safestaking.com)
+**Multi-Chain Staking Protocol**
+
+Non-custodial staking on Ethereum, Avalanche & Solana. Integrates Lido contract functions with on-chain platform fee collection. Deployed on ETH Mainnet.
+
+`Solidity` `Hardhat` `Lido` `Ethereum` `Avalanche` `Solana`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [Tartr](https://tartr.xyz)
+**Decentralized Lending & Borrowing**
+
+DeFi lending platform built on Aave contracts, enabling decentralized borrowing and lending with on-chain collateral management.
+
+`Solidity` `Aave` `Hardhat` `Ethers.js` `React`
+
+</td>
+<td width="50%">
+
+### AGC DAPP ⭐ *5-Star Client Review*
+**Multi-Chain Token Management**
+
+Client project on Polygon, Arbitrum & Avalanche. ERC-20 with minting, burning & pausing. ISIN, CUSIP & DTI identifier support. RainbowKit wallet integration.
+
+`Solidity` `Hardhat` `Polygon` `Arbitrum` `RainbowKit`
+</td>
+</tr>
+</table>
+</br>
+
